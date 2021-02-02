@@ -23,3 +23,9 @@ A collection of small ML projects in Notebook form
   Project classifies Melanoma (Skin Cancer) Image Dataset using various Image processing Techniques
   Taining Data set is prepared by passing through Transformation piplines for  RandomResizedCrop, HorizontalFlip, VerticalFlip, Change HueSaturation, RandomBrightnessContrast
   Resnet50Netwrok and EfficientNetwork model is used to trained on the prepared data to identify whether the given image show Melanoma or not
+  
+- sentiment_text_extraction https://portfolio-apps-ashna.herokuapp.com/jpn?page=sentiment_spacy
+  Project to extract Emotion (abstract of text which best represents emotion) in Text tweets with existing sentiment labels.
+  Named Entity Recognition is used to train the texts for deriving abstract'
+  3 different models are tained for POsitive and Negative labels
+  For neutral models above 95% has full text as abstract in train data, so no model is trained
