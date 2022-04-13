@@ -29,3 +29,5 @@ A collection of small ML projects in Notebook form
   Named Entity Recognition is used to train the texts for deriving abstract'
   3 different models are tained for POsitive and Negative labels
   For neutral models above 95% has full text as abstract in train data, so no model is trained
+  
+  
